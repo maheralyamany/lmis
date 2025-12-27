@@ -59,7 +59,7 @@
 ---
 
 ## التقنيات المستخدمة
-- **Backend:** Laravel (PHP)
+- **Backend:** Laravel 10 (PHP)
 - **Database:** MySQL
 - **Frontend:** JavaScript + Livewire v3
 - **Mobile App:** Android
